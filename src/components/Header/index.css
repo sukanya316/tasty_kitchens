@@ -1,0 +1,26 @@
+.header-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: floralwhite;
+  margin-bottom: 5px;
+}
+.header-items {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 20vw;
+  color: white;
+}
+.link {
+  text-decoration: none;
+  color: black;
+}
+.logout-btn {
+  padding: 2px;
+  border: 1px solid darkorange;
+  background-color: darkorange;
+  color: white;
+  border-radius: 5px;
+}

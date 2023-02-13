@@ -1,0 +1,31 @@
+.home-main-container {
+  height: 100vh;
+  box-sizing: content-box;
+}
+.sort-container {
+  display: flex;
+  flex: row;
+  justify-content: space-between;
+}
+h4 {
+  margin: 0px;
+}
+
+.items-container {
+  height: 60vh;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  overflow: scroll;
+}
+.search-el-container {
+  width: 15vw;
+}
+.search-icon {
+  background-color: gray;
+  border: 2px solid gray;
+  height: 20px;
+  margin: -5px;
+  margin-left: -17px;
+}

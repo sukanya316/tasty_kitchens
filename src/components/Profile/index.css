@@ -1,0 +1,28 @@
+.main-container {
+  display: flex;
+  flex-direction: column;
+}
+.profile-logo {
+  height: 8vh;
+  width: 6vw;
+}
+.profile-container {
+  /* background-image: url('https://assets.ccbp.in/frontend/react-js/profile-bg.png');
+  background-size: cover;
+  background-repeat: no-repeat; */
+  background-color: sandybrown;
+  height: 30vh;
+  width: 100%;
+  /* margin-top: -18px; */
+  /* border-radius: 7px; */
+  padding: 10px;
+}
+.saved-items-container {
+  width: 80vw;
+}
+.saved-items-container {
+  width: 100vw;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}

@@ -1,0 +1,21 @@
+.item-logo {
+  height: 100px;
+  width: 200px;
+  border-radius: 5px;
+  margin-right: 8px;
+}
+.item-container {
+  width: 45vw;
+  display: flex;
+  flex-direction: row;
+  padding: 2px;
+  color: black;
+}
+.disable-link {
+  text-decoration: none;
+}
+h5,
+p,
+button {
+  margin: 0px;
+}
